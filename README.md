@@ -1,7 +1,7 @@
 # 🛠  开发者工具整理（Top 10）
 
 ## 1. [Diff](https://www.toolsjy.com/diff-checker/)
-- 功能：内容对比
+- 功能：内容对比 
 - 场景：sql、代码、文本对比
 
 ---
