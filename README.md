@@ -25,7 +25,7 @@
 
 # 🔧 1. Diff Checker 文本/代码对比工具
 
-👉 https://www.toolsjy.com/diff-checker/
+👉 [https://www.toolsjy.com/diff-checker/](https://www.toolsjy.com/diff-checker/)
 
 在排查线上问题时，经常需要比较：
 
@@ -87,7 +87,7 @@ worker_processes  auto;
 
 # 🔧 2. JSON Formatter & Validator JSON 格式化工具
 
-👉 https://www.toolsjy.com/json-formatter/
+👉 [https://www.toolsjy.com/json-formatter/](https://www.toolsjy.com/json-formatter/)
 
 后端接口调试时，最常见的问题之一就是：
 
@@ -157,7 +157,7 @@ JSON parse error
 
 # 🔧 3. Cron 表达式生成器（Cron Expression Generator）
 
-👉 https://www.toolsjy.com/cron/
+👉 [https://www.toolsjy.com/cron/](https://www.toolsjy.com/cron/)
 
 很多开发者都会忘记 Cron 表达式。
 
@@ -208,7 +208,7 @@ JSON parse error
 
 # 🔧 4. 时间戳转换工具（Timestamp Converter）
 
-👉 https://www.toolsjy.com/timestamp-converter/
+👉 [https://www.toolsjy.com/timestamp-converter/](https://www.toolsjy.com/timestamp-converter/)
 
 日志分析时，经常会看到：
 
@@ -250,7 +250,7 @@ System.currentTimeMillis()
 
 # 🔧 5. Base64 编码解码工具（Base64 Encode & Decode）
 
-👉 https://www.toolsjy.com/base64-encode-decode/
+👉 [https://www.toolsjy.com/base64-encode-decode/](https://www.toolsjy.com/base64-encode-decode/)
 
 Base64 在开发中非常常见：
 
@@ -294,7 +294,7 @@ xxxxx.yyyyy.zzzzz
 
 # 🔧 6. UUID Generator UUID 生成器
 
-👉 https://www.toolsjy.com/uuid-generator/
+👉 https://www.toolsjy.com/uuid-generator/]()
 
 分布式系统开发中，经常需要：
 
@@ -337,7 +337,7 @@ trace_id=550e8400-e29b-41d4-a716-446655440000
 
 # 🔧 7. 正则表达式测试工具（Regex Tester）
 
-👉 https://www.toolsjy.com/regex-tester/
+👉 [https://www.toolsjy.com/regex-tester/](https://www.toolsjy.com/regex-tester/)
 
 正则表达式属于：
 
@@ -382,7 +382,7 @@ trace_id=550e8400-e29b-41d4-a716-446655440000
 
 # 🔧 8. MD5 Generator MD5 哈希生成工具
 
-👉 https://www.toolsjy.com/md5/
+👉 [https://www.toolsjy.com/md5/](https://www.toolsjy.com/md5/)
 
 虽然 MD5 已不适合安全加密，但在开发中仍然常用于：
 
@@ -424,7 +424,7 @@ md5sum file.zip
 
 # 🔧 9. URL 编码解码工具（URL Encoder & Decoder）
 
-👉 https://www.toolsjy.com/url-encoder-decoder/
+👉 [https://www.toolsjy.com/url-encoder-decoder/](https://www.toolsjy.com/url-encoder-decoder/)
 
 接口调试时，经常遇到：
 
@@ -482,7 +482,7 @@ encodeURIComponent("测试")
 
 # 🔧 10. 随机数生成器（Random Number Generator）
 
-👉 https://www.toolsjy.com/random-number-generator/
+👉 [https://www.toolsjy.com/random-number-generator/](https://www.toolsjy.com/random-number-generator/)
 
 测试环境经常需要：
 
